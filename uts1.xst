@@ -1,0 +1,5 @@
+set -tmpdir "D:/project/tcm/xst/projnav.tmp"
+set -xsthdpdir "D:/project/tcm/xst"
+elaborate
+-ifn uts1.prj
+-ifmt mixed
